@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.privacyshield.app.PrivacyDetectionTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2026-09-22T17:29:48.625Z" hostname="ARYAN_WASEKAR" time="0.134">
+  <properties/>
+  <testcase name="testPiiDetectorIdentifiesCoreRules" classname="com.privacyshield.app.PrivacyDetectionTest" time="0.111"/>
+  <testcase name="testVerhoeffAadhaarValidation" classname="com.privacyshield.app.PrivacyDetectionTest" time="0.001"/>
+  <testcase name="testPrivacyPolicyReport" classname="com.privacyshield.app.PrivacyDetectionTest" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

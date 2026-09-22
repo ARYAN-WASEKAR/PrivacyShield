@@ -1,0 +1,6 @@
+[
+    {
+        "merged": "com.privacyshield.app-debug-70:/xml_file_paths.xml.flat",
+        "source": "com.privacyshield.app-main-72:/xml/file_paths.xml"
+    }
+]

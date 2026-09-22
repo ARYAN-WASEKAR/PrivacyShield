@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent_amber">#F59E0B</color>
+    <color name="accent_cyan">#06B6D4</color>
+    <color name="accent_rose">#F43F5E</color>
+    <color name="background_dark">#0B0F14</color>
+    <color name="primary">#10B981</color>
+    <color name="primary_dark">#059669</color>
+    <color name="surface_dark">#141A23</color>
+    <string name="analyzing_title">Analyzing Locally…</string>
+    <string name="app_name">PrivacyShield</string>
+    <string name="camera_permission_required">Camera permission is required to scan documents.</string>
+    <string name="choose_image">Choose Image</string>
+    <string name="generate_safe_copy">Generate Safe Copy</string>
+    <string name="ready_to_share">READY TO SHARE</string>
+    <string name="scan_document">Scan Document</string>
+    <string name="share_safely">SHARE SAFELY</string>
+    <string name="tagline">Protect what you share.</string>
+    <style name="Theme.PrivacyShield" parent="android:Theme.Material.NoActionBar">
+        <item name="android:statusBarColor">@color/background_dark</item>
+        <item name="android:navigationBarColor">@color/background_dark</item>
+        <item name="android:windowBackground">@color/background_dark</item>
+    </style>
+</resources>

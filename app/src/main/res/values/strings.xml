@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PrivacyShield</string>
+    <string name="tagline">Protect what you share.</string>
+    <string name="scan_document">Scan Document</string>
+    <string name="choose_image">Choose Image</string>
+    <string name="analyzing_title">Analyzing Locally…</string>
+    <string name="ready_to_share">READY TO SHARE</string>
+    <string name="share_safely">SHARE SAFELY</string>
+    <string name="generate_safe_copy">Generate Safe Copy</string>
+    <string name="camera_permission_required">Camera permission is required to scan documents.</string>
+</resources>

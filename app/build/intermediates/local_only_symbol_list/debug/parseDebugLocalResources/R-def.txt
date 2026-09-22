@@ -1,0 +1,20 @@
+R_DEF: Internal format may change without notice
+local
+color accent_amber
+color accent_cyan
+color accent_rose
+color background_dark
+color primary
+color primary_dark
+color surface_dark
+string analyzing_title
+string app_name
+string camera_permission_required
+string choose_image
+string generate_safe_copy
+string ready_to_share
+string scan_document
+string share_safely
+string tagline
+style Theme.PrivacyShield
+xml file_paths
