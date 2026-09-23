@@ -4,6 +4,16 @@
 
 ---
 
+## 📲 Direct APK Download
+
+You can download and install the latest **PrivacyShield APK** directly on your Android device:
+
+1. Go to the [**PrivacyShield GitHub Releases**](https://github.com/ARYAN-WASEKAR/PrivacyShield/releases) page.
+2. Tap on **`app-debug.apk`** under the latest release assets to download.
+3. Open the downloaded `.apk` file on your phone and tap **Install** (allow "Install from unknown sources" if prompted).
+
+---
+
 ## ✨ Features
 
 - 🔒 **100% On-Device Processing**: Powered by Google ML Kit Text & Face Detection running entirely offline on your phone. Zero cloud upload.
